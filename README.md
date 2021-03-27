@@ -4,7 +4,9 @@
 conda config --prepend channels conda-forge
 conda create -n ox --strict-channel-priority osmnx
 </pre>
-
+<br>
+<p> After install OSMnx in conda, you need to provide the installation in python. So you can try code: </p>
+<pre> pip install osmnx </pre>
 
 > If you have get this error message:
 
