@@ -1,8 +1,10 @@
-### Installation
--------------
+<h2>Installation</h2>
 You can install OSMnx with conda:
-`conda config --prepend channels conda-forge
- conda create -n ox --strict-channel-priority osmnx`
+
+<pre>
+conda config --prepend channels conda-forge
+conda create -n ox --strict-channel-priority osmnx
+</pre>
 
 > If you have get this error message:
 
